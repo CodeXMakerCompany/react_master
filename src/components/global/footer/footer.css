@@ -1,0 +1,17 @@
+.footer{
+    max-width: 700; 
+    margin: auto; 
+    text-align: center;
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(43, 9, 23);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+}
+
+.customBox{
+    color: white;
+}
